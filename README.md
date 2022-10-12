@@ -1,7 +1,8 @@
   <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
 Redux, SQL entre otras tecnologías del sector. 
-<br>
+
+
 TECNOLOGÍAS
 
 HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize, FigmaI, Scrum.
