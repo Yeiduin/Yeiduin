@@ -1,16 +1,22 @@
-### Hi there 👋
+Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
+Redux, SQL entre otras tecnologías del sector. Participe en la creacion de un E-commerce para el diseño y
+compra de productos de maquillaje, Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y autonomía.
 
-<!--
-**Yeiduin/Yeiduin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TECNOLOGÍAS
 
-Here are some ideas to get you started:
+HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize, FigmaI, Scrum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PROYECTOS
+
+Full Stack Web Developer - Countries App					marzo. 22 - octubre. 22
+Henry Bootcamp, Buenos Aires, Argentina. 
+
+Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación
+Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
+
+
+https://royalmakeup.vercel.app/home
+
+http://piyeiduin.online:3000/Home
+
+
