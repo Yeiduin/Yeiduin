@@ -1,4 +1,4 @@
-  <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
+  <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
 Redux, SQL entre otras tecnologías del sector. Participe en la creacion de un E-commerce para el diseño y
 compra de productos de maquillaje, Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y autonomía.
