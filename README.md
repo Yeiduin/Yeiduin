@@ -19,4 +19,11 @@ https://royalmakeup.vercel.app/home
 
 http://piyeiduin.online:3000/Home
 
-![me](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" width={40} />
+
+
