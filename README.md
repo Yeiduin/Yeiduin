@@ -24,6 +24,10 @@ https://royalmakeup.vercel.app/home
 
 http://piyeiduin.online:3000/Home
 
+Datos de Contacto:
+
+Correo: yoelyei22@gmail.com
+linkedin: https://www.linkedin.com/in/yeiduin-romero-mu%C3%B1oz-3b3a1ab3/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeiduin&hide=contribs,prs)
 
