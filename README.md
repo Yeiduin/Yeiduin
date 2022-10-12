@@ -1,4 +1,4 @@
-  <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" />
+  <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
 Redux, SQL entre otras tecnologías del sector. 
 
