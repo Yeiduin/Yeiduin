@@ -1,3 +1,4 @@
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" width={40} />
 Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
 Redux, SQL entre otras tecnologías del sector. Participe en la creacion de un E-commerce para el diseño y
 compra de productos de maquillaje, Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y autonomía.
